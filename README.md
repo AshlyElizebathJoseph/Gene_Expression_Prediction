@@ -23,7 +23,7 @@ Gene expression prediction is a crucial task in bioinformatics and computational
 
 ## Project Structure
 
-- data_generation.py # Script for generating synthetic data
+─ data_generation.py # Script for generating synthetic data
 ─ model_training.py # Script for training and evaluating the model
 ─ user_interaction.py # Script for user input and prediction
 ─ README.md # Project documentation
@@ -54,25 +54,25 @@ Ensure you have Python installed on your system. You can download it from [pytho
    ```sh
    git clone https://github.com/yourusername/gene-expression-prediction.git
    cd gene-expression-prediction
-2. Install the required dependencies:
-   '''bash
-   pip install -r requirements.txt
-   '''
 
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 ### Usage
 
 1. Generate the synthetic data:
-   '''bash
+    ```bash
    python data_generation.py
-   '''
+   ```
 3. Train and Evaluate the model:
-   '''bash
+    ```bash
    python model_training.py
-   '''
+   ```
 5. Make predictions based on user input:
-   '''bash
+    ```bash
    python user_interaction.py
-   '''
+   ```
 
 
 ## Dependencies
