@@ -23,11 +23,11 @@ Gene expression prediction is a crucial task in bioinformatics and computational
 
 ## Project Structure
 
-├──data_generation.py # Script for generating synthetic data
-├── model_training.py # Script for training and evaluating the model
-├── user_interaction.py # Script for user input and prediction
-├── README.md # Project documentation
-└── requirements.txt # Dependencies
+- [data_generation.py] (# Script for generating synthetic data)
+─ [model_training.py] (# Script for training and evaluating the model)
+─ [user_interaction.py] (# Script for user input and prediction)
+─ README.md (# Project documentation)
+─ [requirements.txt] (# Dependencies)
 
 
 ## Data Generation
@@ -73,7 +73,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
 
 
 ## Dependencies
-numpy
-pandas
-scikit-learn
-matplotlib
+1. numpy
+2. pandas
+3. scikit-learn
+4. matplotlib
